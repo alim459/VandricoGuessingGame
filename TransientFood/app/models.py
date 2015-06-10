@@ -6,5 +6,6 @@ from django.db import models
 # Vendor
 # FoodTruck
 # FarmersMarket
-# LatLon
-# Time
+# LatLon???
+# Time???
+# User??
