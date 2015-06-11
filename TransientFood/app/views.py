@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 from django.http import HttpResponse
 
-def index(request):
+def mapview(request):
     
     # Construct a dictionary to pass to the template engine as its context.
     # Note the key boldmessage is the same as {{ boldmessage }} in the template!
@@ -12,5 +12,5 @@ def index(request):
     # We make use of the shortcut function to make our lives easier.
     # Note that the first parameter is the template we wish to use.
     
-    return render(request, 'app/index.html', context_dict)
+    return render(request, 'app/mapview.html', context_dict)
 
