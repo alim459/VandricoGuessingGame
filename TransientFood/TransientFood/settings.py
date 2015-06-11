@@ -42,6 +42,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'app',
     'geoposition',
+
+
 )
 
 MIDDLEWARE_CLASSES = (
