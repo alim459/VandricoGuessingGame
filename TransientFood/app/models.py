@@ -16,4 +16,7 @@ class Vendor(models.Model):
 
 
     # !!!think about photos/pictures
+<<<<<<< HEAD
 
+=======
+>>>>>>> alvintemp
