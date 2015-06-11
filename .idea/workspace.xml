@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4829b31-8e41-4a2e-81c9-4389246d4ab4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TransientFood/app/models.py" afterPath="$PROJECT_DIR$/TransientFood/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TransientFood/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TransientFood/templates/app/mapview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TransientFood/static/images/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TransientFood/app/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TransientFood/manage.py" afterPath="$PROJECT_DIR$/TransientFood/manage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TransientFood/TransientFood/settings.py" afterPath="$PROJECT_DIR$/TransientFood/TransientFood/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TransientFood/TransientFood/urls.py" afterPath="$PROJECT_DIR$/TransientFood/TransientFood/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TransientFood/app/views.py" afterPath="$PROJECT_DIR$/TransientFood/app/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TransientFood.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +44,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TransientFood/TransientFood/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7972028">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.46153846">
+              <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -303,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TransientFood/TransientFood/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7972028">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.46153846">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding />
         </state>
       </provider>
